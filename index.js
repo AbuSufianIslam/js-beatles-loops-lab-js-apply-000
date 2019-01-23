@@ -21,7 +21,7 @@ function iLoveTheBeatles(counter){
   var loveTheBeatles = [];
   var i = 0;
   do{
-    loveTheBeatles[i] = "I love the Beatles!"
+    loveTheBeatles[i] = "I love the Beatles!";
     i++;
     counter++;
   }while(counter<15);
